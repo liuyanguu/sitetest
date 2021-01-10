@@ -3,9 +3,9 @@ output_dir: "docs"
 navbar:
   title: "Cars"
   left:
-    - text: "Home"
+    - text: "HomePage"
       href: index.html
-    - text: "Speed and Distance"
+    - text: "Page 1"
       href: speed-and-distance.html
 output:
   html_document:

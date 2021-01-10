@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "The article on homepage"
 ---
 
-Homepage
+Add content... 
